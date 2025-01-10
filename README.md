@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BT01 (07/01/2025): CÀI ĐẶT MÔI TRƯỜNG LẬP TRÌNH
 ## 1. Cài đặt Node js.
 ### - Truy cập trang https://nodejs.org/en/download/. Chọn Windows Installer (.msi) như hình: ![image](https://github.com/user-attachments/assets/95672c44-b730-42e5-a7d2-bef0b2b72b30)
@@ -37,5 +38,3 @@
 #### ![image](https://github.com/user-attachments/assets/c4f0b1c7-b9fb-4ac9-89b1-a4820e3876b1)
 ### - Dự án sẽ chạy từ file index.tsx, kết quả máy ảo như hình sau là đã chạy thành công dự án. Bây giờ hãy thực hiện yêu cầu được giao để tạo ra dự án cho riêng mình.
 #### ![image](https://github.com/user-attachments/assets/6afc46d0-f426-479a-a018-ca481dd5fbb7)
-
-
