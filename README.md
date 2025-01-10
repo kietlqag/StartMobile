@@ -17,4 +17,8 @@
 #### ![image](https://github.com/user-attachments/assets/1fafa86b-daaf-45ee-95d4-77de7c9f7c4e)
 #### ![image](https://github.com/user-attachments/assets/3f474364-a859-4abf-af50-83acc8c3990a)
 #### ![image](https://github.com/user-attachments/assets/37022399-d44e-4bf1-869c-0140ad8da685)
+## 4. Tạo dự án.
+### - Mở cmd và điều hướng đến thư mục lưu dự án sẽ tạo.
+### - Chạy lệnh "npx create-expo-app@latest bt01". (Lưu ý: bt01 là tên dự án). Ảnh demo sau: 
+#### ![image](https://github.com/user-attachments/assets/94f41cb7-705e-46eb-987a-ec795d9e02a2)
 
