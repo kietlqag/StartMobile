@@ -21,4 +21,11 @@
 ### - Mở cmd và điều hướng đến thư mục lưu dự án sẽ tạo.
 ### - Chạy lệnh "npx create-expo-app@latest bt01". (Lưu ý: bt01 là tên dự án). Ảnh demo sau: 
 #### ![image](https://github.com/user-attachments/assets/94f41cb7-705e-46eb-987a-ec795d9e02a2)
+## 5. Tạo và khởi chạy máy ảo Androi.
+### - Tạo Androi: Tại màn hình như hình dưới, chọn More Actions --> Virtual Device Manager.
+#### ![image](https://github.com/user-attachments/assets/ac16ffb1-93d0-464e-a807-adb56d5f637e)
+### - Nếu muốn tạo máy ảo, click vào biểu tượng "Create Virtual Device" để tạo: 
+#### ![image](https://github.com/user-attachments/assets/0902d28c-1e7a-413d-a843-f0e5b5773eae)
+### - Nếu đã có máy ảo, click vào biểu tượng "Start" ở máy ảo cần để khởi chạy: 
+#### ![image](https://github.com/user-attachments/assets/a3f8d817-4968-4731-8dc5-6485ee58785a)
 
